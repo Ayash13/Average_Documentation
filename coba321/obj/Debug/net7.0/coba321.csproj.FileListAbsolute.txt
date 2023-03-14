@@ -1,0 +1,15 @@
+/Users/ayash/Projects/coba321/coba321/obj/Debug/net7.0/coba321.csproj.AssemblyReference.cache
+/Users/ayash/Projects/coba321/coba321/obj/Debug/net7.0/coba321.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayash/Projects/coba321/coba321/obj/Debug/net7.0/coba321.AssemblyInfoInputs.cache
+/Users/ayash/Projects/coba321/coba321/obj/Debug/net7.0/coba321.AssemblyInfo.cs
+/Users/ayash/Projects/coba321/coba321/obj/Debug/net7.0/coba321.csproj.CoreCompileInputs.cache
+/Users/ayash/Projects/coba321/coba321/bin/Debug/net7.0/coba321
+/Users/ayash/Projects/coba321/coba321/bin/Debug/net7.0/coba321.deps.json
+/Users/ayash/Projects/coba321/coba321/bin/Debug/net7.0/coba321.runtimeconfig.json
+/Users/ayash/Projects/coba321/coba321/bin/Debug/net7.0/coba321.dll
+/Users/ayash/Projects/coba321/coba321/bin/Debug/net7.0/coba321.pdb
+/Users/ayash/Projects/coba321/coba321/obj/Debug/net7.0/coba321.dll
+/Users/ayash/Projects/coba321/coba321/obj/Debug/net7.0/refint/coba321.dll
+/Users/ayash/Projects/coba321/coba321/obj/Debug/net7.0/coba321.pdb
+/Users/ayash/Projects/coba321/coba321/obj/Debug/net7.0/coba321.genruntimeconfig.cache
+/Users/ayash/Projects/coba321/coba321/obj/Debug/net7.0/ref/coba321.dll
